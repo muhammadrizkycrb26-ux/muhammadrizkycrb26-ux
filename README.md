@@ -23,10 +23,10 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadrizkycrb26-ux&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=muhammadrizkycrb26-ux&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrizkycrb26-ux&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=muhammadrizkycrb26-ux&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
