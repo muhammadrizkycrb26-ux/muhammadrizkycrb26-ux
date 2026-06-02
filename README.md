@@ -20,13 +20,18 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=muhammadrizkycrb26-ux&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/muhammadrizkycrb26-ux/muhammadrizkycrb26-ux/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
+
 <p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=muhammadrizkycrb26-ux&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadrizkycrb26-ux&theme=tokyonight&area=true&hide_border=true" alt="Muhammad Rizky's Contribution Graph" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=muhammadrizkycrb26-ux&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
