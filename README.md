@@ -2,9 +2,10 @@
 
 ## <span style="color: #FFA500;">Informatics Student</span>
 
-💡 Passionate about crafting smart systems and building seamless digital experiences.
-🌱 Currently exploring **IoT (ESP8266/Wokwi)**, **AI/ML**, and **Computer Science fundamentals**.
-🎯 Goal: Deliver innovative solutions, grow as a full-stack developer, and build technology that helps people.
+💡 Passionate about crafting responsive user interfaces and building robust, scalable web experiences.
+🌱 Currently exploring **Frontend Development (React/JS)**, **Modern Web Frameworks**, and **IoT Systems**.
+🛠️ Specialized in connecting hardware and software using **PHP** for backend and **Python** for smart integrations.
+🎯 Goal: Deliver seamless web solutions, bridge the gap between IoT and web development, and build impactful technology.
 
 ---
 
